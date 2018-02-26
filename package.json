@@ -1,0 +1,16 @@
+{
+  "name": "slimphp-docs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yandbox/slimphp-docs",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "fs-extra": "^5.0.0",
+    "got": "^8.2.0",
+    "level": "^3.0.0",
+    "p-map": "^1.2.0"
+  }
+}
